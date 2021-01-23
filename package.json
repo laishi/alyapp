@@ -1,0 +1,22 @@
+{
+  "name": "alyapp",
+  "version": "1.0.0",
+  "description": "alyserver",
+  "main": "server.js",
+  "scripts": {
+    "test": "forever server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laishi/alyapp.git"
+  },
+  "keywords": [
+    "aylapp"
+  ],
+  "author": "laishi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laishi/alyapp/issues"
+  },
+  "homepage": "https://github.com/laishi/alyapp#readme"
+}
